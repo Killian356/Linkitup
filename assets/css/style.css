@@ -82,6 +82,8 @@ p {
     margin-left: 20px;
 }
 
+/* Benefit Side Section Start */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,6 +111,10 @@ p {
     max-width: 150px;
 }
 
+/* Benefit Side Section End */
+
+/* navigational Section Start */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,6 +132,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* navigational Section End */
 
 /* End of Sectional Content */
 
