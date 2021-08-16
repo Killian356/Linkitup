@@ -8,8 +8,8 @@ An online optimization service that sets businesses up for success online quickl
 * CSS
 
 ## Screenshots
-![Screenshot](Killian356/linkitup/main/assets/images/Linkitup.JPG "Horiseon")
-![Screenshot](Killian356/linkitup/main/assets/images/linkitup2.PNG "Horiseon")
+![Screenshot](assets/images/Linkitup.JPG "Horiseon")
+![Screenshot](assets/images/linkitup2.PNG "Horiseon")
 
 ## Website
 https://killian356.github.io/linkitup/
